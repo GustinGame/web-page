@@ -39,6 +39,7 @@ header:hover {
 .logo {
     font-size: 1.5em;
     color: white;
+    -webkit-user-select: auto;
     user-select: none;
 }
 
